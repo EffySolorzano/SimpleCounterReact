@@ -1,3 +1,17 @@
+#background{
+   width: 50%;
+    height: 120px;
+    background-color: rgba(252, 202, 239, 0.795);
+    border-radius: 15px;
+}
+#badge{
+    font-size: 50px;
+
+    
+}
+#clock{
+    font-size: 35px;
+}
 
 /* 
 
